@@ -1,5 +1,4 @@
 ## Hi there! I'm Kotaro!👋
-サーバレスで爆速開発していきます🔥<br>
 data x marketing = 💓 <br>
 
 ## Skill
