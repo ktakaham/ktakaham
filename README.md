@@ -1,8 +1,8 @@
 ## Hi there! I'm Kotaro!👋
-data x marketing = 💓 <br>
+web3 💓 <br>
 
 ## Skill
-HTML5, CSS, JS, Python, AWS, Hadoop, Teradata
+HTML5, CSS, JS, Python, AWS, Hadoop, Teradata, Solidity
 
 ## Job History
 2016 ~ 2022 Yahoo! Japan, Engineer<br>
