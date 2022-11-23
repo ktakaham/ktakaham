@@ -2,7 +2,7 @@
 web3 💓 <br>
 
 ## Skill
-React/Next, Python, GCP, AWS, Hadoop, Teradata, Solidity
+React/Next, Typescript, Python, GCP, AWS, Hadoop, Teradata, Solidity
 
 ## Job History
 2022 ~ NOW Septeni Incubate<br>
